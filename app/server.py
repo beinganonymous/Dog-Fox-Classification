@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://doc-10-28-docs.googleusercontent.com/docs/securesc/6fe50e0sgnrsjfkk85d2118mdreel1k2/td94m5a6lasi0fk31s36f1krcmc3s0h2/1562479200000/08878578932533926478/08878578932533926478/1-2sUXx6aoIcmhvhBW0ZhdaNkkEpcZoWn?e=download&nonce=hd87sg2n60rp0&user=08878578932533926478&hash=dodseeh0dnjjmf17ov00b4lracm56k1m'
+model_file_url = 'https://doc-04-28-docs.googleusercontent.com/docs/securesc/6fe50e0sgnrsjfkk85d2118mdreel1k2/vgeo4mb5ipmse81inja04fspurb583mc/1562565600000/08878578932533926478/08878578932533926478/1kJxTwbi29RgBCsVLZpEF3BB-mol5tDiK?e=download&nonce=tdgnhvptg69jq&user=08878578932533926478&hash=5709gfm4leoltm2egvchr1e2nnmgmpj2'
 model_file_name = 'model'
 classes = ['dog', 'fox']
 path = Path(__file__).parent
